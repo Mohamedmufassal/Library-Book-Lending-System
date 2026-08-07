@@ -50,6 +50,6 @@ Create a `.env` file inside the `server` folder.
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://libraryAdmin:Library12345@cluster0.e6zu1lz.mongodb.net/?appName=Cluster0
-JWT_SECRET=librarybooklendingsecret123
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
 ```
