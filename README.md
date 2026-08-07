@@ -31,7 +31,7 @@ git clone <repository-url>
 ```
 
 ### Backend
-```
+```bash
 cd server
 npm install
 npm run dev
